@@ -6,8 +6,8 @@ langchain-community==0.0.24
 ctransformers==0.2.27
 streamlit==1.31.1
 streamlit-extras==0.4.0
+tiktoken==0.6.0
 langchain==0.1.9
 rank_bm25==0.2.2
 pypdf==4.0.2
 chromadb==0.4.24
-tiktoken==0.6.0
