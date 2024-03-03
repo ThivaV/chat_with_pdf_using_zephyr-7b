@@ -1,5 +1,5 @@
 ---
-title: Chat With Pdf Using Zephyr-7b-beta
+title: Chat With Pdf Using Zephyr-7b-Beta
 emoji: 🗣📢
 colorFrom: red
 colorTo: green
