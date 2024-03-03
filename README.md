@@ -1,10 +1,10 @@
 ---
-title: Chat With Pdf Using Zephyr-7b
+title: Chat With Pdf Using Zephyr-7b-beta
 emoji: 🗣📢
 colorFrom: red
 colorTo: green
 sdk: streamlit
-sdk_version: 1.31.0
+sdk_version: 1.31.1
 app_file: app.py
 pinned: false
 ---
@@ -21,4 +21,4 @@ Chat with pdf using [Zephyr-7b LLM](https://huggingface.co/HuggingFaceH4/zephyr-
 - Zephyr-7b finetuned from [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1)
 - [Embeddings](https://huggingface.co/BAAI/bge-base-en-v1.5)
 
-[Chat with PDF using Zephyr-7b Beta - Playground](https://huggingface.co/spaces/thivav/chat_with_pdf_using_zephyr-7b)
+[Chat with PDF using Zephyr-7b Beta - Playground](https://huggingface.co/spaces/thivav/chat_with_pdf_using_zephyr-7b-beta)

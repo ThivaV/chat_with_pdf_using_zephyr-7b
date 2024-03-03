@@ -1,4 +1,4 @@
-name: Sync to HuggingFace hub
+name: Sync to HuggingFace Space
 on:
   push:
     branches: [main]
@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://thivav:$HF_TOKEN@huggingface.co/spaces/thivav/chat_with_pdf_using_zephyr-7b main
+        run: git push --force https://thivav:$HF_TOKEN@huggingface.co/spaces/thivav/chat_with_pdf_using_zephyr-7b-beta main
