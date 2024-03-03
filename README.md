@@ -6,7 +6,7 @@ colorTo: green
 sdk: streamlit
 sdk_version: 1.31.1
 app_file: app.py
-pinned: false
+pinned: true
 ---
 
 ![Zephyr-7b-beta](/img/Zephyr-7b.png)
