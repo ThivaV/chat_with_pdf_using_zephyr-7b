@@ -21,4 +21,4 @@ Chat with pdf using [Zephyr-7b LLM](https://huggingface.co/HuggingFaceH4/zephyr-
 - Zephyr-7b finetuned from [mistralai/Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1)
 - [Embeddings](https://huggingface.co/BAAI/bge-base-en-v1.5)
 
-[Chat with PDF using Zephyr-7b Beta - Playground](https://huggingface.co/spaces/thivav/chat_with_pdf_using_zephyr-7b-beta)
+[Chat with PDF using Zephyr-7b Beta - 🤗 Playground](https://huggingface.co/spaces/thivav/chat_with_pdf_using_zephyr-7b-beta)
